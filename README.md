@@ -11,7 +11,6 @@ With the added feature of automatically detecting the source language using Goog
 <img width="501" alt="ss3" src="https://github.com/RiyaBhaskar12/Language-Translator-AI/assets/111240178/caa0b648-8ddf-4758-892d-7223d346868d">
 <img width="124" alt="lng" src="https://github.com/RiyaBhaskar12/Language-Translator-AI/assets/111240178/08d5977f-c8ba-472d-a441-b3ed742af219">
 <img width="120" alt="lng3" src="https://github.com/RiyaBhaskar12/Language-Translator-AI/assets/111240178/57179589-8356-411d-a7c4-e1d10347b5a7">
-<img width="116" alt="lng2" src="https://github.com/RiyaBhaskar12/Language-Translator-AI/assets/111240178/6465562a-5079-472f-9336-2ee640c0dd44">
 <img width="499" alt="ss2" src="https://github.com/RiyaBhaskar12/Language-Translator-AI/assets/111240178/8e33e15e-2642-4617-bf1e-74d27b8783ec">
 <img width="503" alt="ss1" src="https://github.com/RiyaBhaskar12/Language-Translator-AI/assets/111240178/46819afe-9118-44d6-a510-6afb0705ebf0">
 
