@@ -1,0 +1,7 @@
+# Language-Translator-AI
+It is a Python script that uses the Tkinter library to create a graphical user interface (GUI) for a language translator application. 
+
+The Language Translator project is a Python application that brings the power of language translation to users through an intuitive graphical user interface. It has been designed using the popular Tkinter library, and aims to provide a practical tool for language translation through a user-friendly graphical interface. By leveraging the capabilities of the Google Translate API, users can input text and select their desired destination language to obtain translations. The interface features intuitive buttons, text entry fields, and informative labels to guide users through the translation process. By working on this project, I aimed to enhance my programming skills, explore GUI development, and contribute to solving real-world language communication challenges.
+
+#Key Highlight of the Project
+With the added feature of automatically detecting the source language using Google API, users can effortlessly communicate across linguistic barriers. This Language Translator project provides a seamless solution to bridge the gap of language diversity, fostering understanding and connection between people from different backgrounds. Say goodbye to language barriers and unlock a world of possibilities with the Language Translator project.
